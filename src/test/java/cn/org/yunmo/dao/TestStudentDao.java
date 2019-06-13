@@ -1,4 +1,4 @@
-package cn.org.yunmo;
+package cn.org.yunmo.dao;
 
 import cn.org.yunmo.hotel.pojo.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
